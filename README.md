@@ -1,3 +1,3 @@
 # Haskell
 
-Just a collection of basic Haskell files
+Just a collection of Haskell files
